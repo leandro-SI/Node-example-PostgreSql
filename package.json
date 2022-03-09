@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leandro-SI/Node-example-PostgreSql/issues"
   },
-  "homepage": "https://github.com/leandro-SI/Node-example-PostgreSql#readme"
+  "homepage": "https://github.com/leandro-SI/Node-example-PostgreSql#readme",
+  "dependencies": {
+    "pg": "^8.7.3"
+  }
 }
