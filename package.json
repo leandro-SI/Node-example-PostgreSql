@@ -1,0 +1,19 @@
+{
+  "name": "node-example-postgresql",
+  "version": "1.0.0",
+  "description": "Simples exemplo de utilização do Node.js com banco de dados PostgreSql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandro-SI/Node-example-PostgreSql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandro-SI/Node-example-PostgreSql/issues"
+  },
+  "homepage": "https://github.com/leandro-SI/Node-example-PostgreSql#readme"
+}
