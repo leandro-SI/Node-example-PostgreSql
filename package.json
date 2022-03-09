@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/leandro-SI/Node-example-PostgreSql#readme",
   "dependencies": {
-    "pg": "^8.7.3"
+    "pg": "^8.7.3",
+    "sequelize": "^6.17.0"
   }
 }
