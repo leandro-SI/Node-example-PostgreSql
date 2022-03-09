@@ -1,5 +1,5 @@
 # Node-example-PostgreSql
-Simples exemplo de utilização do Node.js com banco de dados PostgreSql
+Simples exemplo de utilização do Node.js com banco de dados PostgreSql, modo simples e utilizando o ORM Sequelize
 
 
 </br>
